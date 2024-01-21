@@ -1,7 +1,7 @@
 # repositorys-my-contents
 Repositório de projetos particulares e de minha iniciativa
 
-## Aqui estão alguns dos projetos que participei:
+## Aqui estão alguns dos projetos particulares:
 
 - [Project-Delivary](https://delivery-reinaldoper.vercel.app/) - Projeto compras de bebidas.
 - [Memory game](https://reinaldoper.github.io/memory-game/) - Projeto de memorização de emojis. (javaScript, css, html).
